@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2C626ED8-C276-D93D-3D49-7128A75F6801}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerscript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerscript.cs" Line="139" Column="1" />
+      <File FileName="Assets/wiritng.cs" Line="51" Column="1" />
+      <File FileName="Assets/Scripts/badguy.cs" Line="74" Column="44" />
+      <File FileName="Assets/Scripts/Score.cs" Line="22" Column="18" />
+      <File FileName="Assets/Scripts/Menumanager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Hleath.cs" Line="64" Column="83" />
+      <File FileName="Assets/Scripts/WaveSpawner.cs" Line="65" Column="1" />
+      <File FileName="Assets/2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/usernamemanager.cs" Line="56" Column="1" />
+      <File FileName="Assets/AttackingMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Attacking.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/dice.cs" Line="13" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
